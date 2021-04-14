@@ -1,0 +1,7 @@
+SQL Server、mysql、虚拟机服务如果打不开请到【开始】【管理工具】【服务】中开启相关服务。
+
+Navicat for MySQL 连接MySql数据库默认实例：root,默认密码：123456
+
+SQL Server Management Studio 连接数据库SQL Server默认实例：sa,密码：root
+
+CentOS 默认用户名:root 密码：centos
